@@ -1,24 +1,28 @@
 # 🚀 OptiCore – Intelligent Business Operations Platform
 
 <p align="center">
+  <img src="assets/logo.png" width="180" alt="OptiCore Logo">
+</p>
+
+<h3 align="center">
+Transforming Operational Data into Intelligent Business Decisions
+</h3>
+
+<p align="center">
+Upload → Analyze → Detect → Predict → Explain → Recommend → Report
+</p>
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-Analytics-4479A1?style=for-the-badge)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Dashboard-3F4F75?style=for-the-badge)
 
 </p>
 
-<p align="center">
-
-### **Transforming Operational Data into Intelligent Business Decisions**
-
-Upload → Analyze → Detect → Predict → Explain → Recommend → Report
-
-</p>
 
 ---
 
@@ -454,18 +458,19 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
+## 📸 Feature Gallery
 
-```
-docs/screenshots/
-```
+| Dashboard | Inventory |
+|-----------|-----------|
+| ![](docs/screenshots/dashboard.png) | ![](docs/screenshots/inventory.png) |
 
-- Dashboard
-- Analytics
-- AI Advisor
-- Reports
-- Predictions
-- Recommendations
+| Operations | AI Advisor |
+|-----------|-----------|
+| ![](docs/screenshots/operations.png) | ![](docs/screenshots/ai_advisor.png) |
+
+| Predictions | Reports |
+|-----------|-----------|
+| ![](docs/screenshots/predictions.png) | ![](docs/screenshots/reports.png) |
 
 ---
 
